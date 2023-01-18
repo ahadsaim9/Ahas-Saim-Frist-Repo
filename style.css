@@ -380,3 +380,23 @@ body {
   text-decoration: underline;
   letter-spacing: 1px;
 }
+/* --------- contacts ------------ */
+.contact-section{
+  height: 92vh;
+  text-align: center;
+ padding-top: 200px;
+background-color: black;
+color: white;
+box-sizing: border-box;
+margin-top: 0;
+
+
+}
+.contact-section h1{
+  font-size: 32px;
+  line-height: 65px;
+}
+.contact-section p{
+  font-size: 22px;
+  line-height: 45px;
+}
